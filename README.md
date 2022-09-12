@@ -20,7 +20,7 @@ _Ejercicio realizado con NodeJS, en la versión de ECMAScript 6 con la librería
 ---
 ## Autor ✒️
 
-_A petición de la problemática quines han realizado una solución es:_
+_A petición de la problemática quienes han realizado una solución es:_
 
 * **Diego Garrido** - *Trabajo Inicial y documentación* - [dgarridoal](https://github.com/dgarridoal)
 
